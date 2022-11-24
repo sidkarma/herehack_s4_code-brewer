@@ -15,7 +15,9 @@ TO EVALUATE THE PRICE OF LANDS AND OTHER PROPERTIES PRECISELY USING VARIOUS TECH
 **_Prediction system_**
 
 ● We will be covering various locations using a wide variety of dataset covering major areas or locations.
+
 ● Input based value prediction will be done on various parameters like size of the property, location etc.
+
 ● Use of various AI based techniques like Regression model etc. will be done to find the the solution to the selected problem with maximum accuracy.
 
 **_Management System_**
@@ -25,8 +27,11 @@ Real Estate Management System   is built on a custom PHP framework and was creat
 **Tech Stack**
 
 ● HTML/ CSS/ JAVASCRIPT - FOR FRONT-END DEVELOPMENT.
+
 ● Searching methods through PHP and setup MySQL through XAMPP server.
+
 ● Python and its libraries - BACK-END DEVELOPMENT.
+
 ● Server Development - Flask
 
 
